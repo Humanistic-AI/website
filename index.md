@@ -1,4 +1,3 @@
-# Humanistic-ai
 
 Research group at the [Centre for Interdisciplinary Research in Sciences and Humanities](https://ceiich.unam.mx/) at UNAM, México.
 
