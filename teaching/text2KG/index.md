@@ -1,5 +1,5 @@
 # Text2KG: Técnicas y aplicaciones de NLP y Bases de Datos de Gráficas.
-#### Seminario de Ciencias de la Computación B - Facultad de Ciencias UNAM
+
 A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades de la UNAM.
 
 **Contacto**: 	[victor.mireles@ceiich.unam.mx](mailto:victor.mireles@ceiich.unam.mx)  
@@ -35,6 +35,11 @@ Para cada uno de los siguientes temas las personas participantes generarán un p
 2. **Extracción de información de documentos textuales**  
 3. **Poblamiento de bases de datos de gráficas**  
 4. **Consulta de bases de datos de gráficas**
+
+Adicionalmente, para las personas inscritas el PCIC de la UNAM, habrá sesiones sobre:
+* Formalismo lógico detrás de las ontologías OWL
+* Discusión detallada de las redes neuronales involucradas
+* Evaluación de distintos algoritmos de NLP.
 
 ## **Programación Detallada:**
 
@@ -78,6 +83,12 @@ Las personas participantes elaborarán, individualmente o en equipos pequeños, 
 3) Presencia de criterios claros de evaluación de desempeño, y sus pruebas programáticas correspondientes  
 4) Elección de componentes de software libre acordes al problema  
 5) Conexión adecuada del sistema resultante con un sistema de visualización de gráficas.
+
+## **Para inscribirse:**
+
+* Inscríbite a [este google classroom](https://classroom.google.com/c/NzQ0NjA0NTg3NTQ1?cjc=puii6m6)
+* Si eres de la Facultad de Ciencias de la UNAM, inscríbete al grupo **7145**
+* Si eres del PCIC de la UNAM, inscríbete a la materia `TÉCNICAS DE PLN Y BASES DE DATOS DE GRÁFICAS` 
 
 ## **Requisitos:**
 
