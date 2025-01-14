@@ -1,4 +1,4 @@
-## **Seminario**
+## **Text2KG**
 
 A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades de la UNAM.
 
@@ -6,7 +6,7 @@ A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Inter
 **Horario:** 	8:00 \- 9:00 hrs.  27 de Enero al 16 de Mayo 2025\.  
 **Modalidad:** 	Híbrida (1 clase presencial a la semana, Facultad de Ciencias, UNAM)
 
-# Text2Graph: Técnicas y aplicaciones de PLN y Bases de Datos de Gráficas.
+# Text2KG: Técnicas y aplicaciones de PLN y Bases de Datos de Gráficas.
 
 ## **Descripción:**
 
