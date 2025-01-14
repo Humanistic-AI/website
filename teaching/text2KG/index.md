@@ -1,14 +1,14 @@
-## **Text2KG**
-
+# Text2KG: Técnicas y aplicaciones de PLN y Bases de Datos de Gráficas.
+#### Seminario de Ciencias de la Computación B - Facultad de Ciencias UNAM
 A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades de la UNAM.
 
 **Contacto**: 	[victor.mireles@ceiich.unam.mx](mailto:victor.mireles@ceiich.unam.mx)  
 **Horario:** 	8:00 \- 9:00 hrs.  27 de Enero al 16 de Mayo 2025\.  
 **Modalidad:** 	Híbrida (1 clase presencial a la semana, Facultad de Ciencias, UNAM)
 
-# Text2KG: Técnicas y aplicaciones de PLN y Bases de Datos de Gráficas.
 
-## **Descripción:**
+
+## **¿De qué trata el curso?**
 
 Es interesante ligar información estructurada con aquella contenida en documentos de texto. Por ejemplo, al leer un artículo periodístico es bueno tener a un click de distancia información sobre cada persona ahí mencionada, incluyendo sus ligas con otras personas, noticias y organizaciones. En este seminario se explorarán las técnicas de procesamiento de lenguaje natural (basadas en Redes Neuronales Artificiales), extracción de información, y representación del conocimiento necesarias para el diseño y construcción de un sistema que permita estas funcionalidades. Se familiarizará a las personas participantes con los conceptos necesarios en cada etapa y se implementarán prototipos que, al final del semestre, se combinarán para crear un sistema funcional. Los conjuntos de datos y los casos de uso vendrán de aplicaciones reales de interés social y cultural. 
 
@@ -18,7 +18,7 @@ En este seminario de carácter primordialmente práctico, los participantes elab
 | :---- |
 | Ejemplo de una gráfica (red, o grafo) que contiene información sobre un caso de desaparición forzada. |
 
-## **Objetivos al final el curso:**
+## **¿Cuáles son los objetivos?**
 
 Las personas participantes podrán construir un sistema que convierta información textual en gráficas de conocimiento que sean navegables y consultables. Obtendrán familiaridad con una gama de paquetes de software libre y comerciales para las distintas etapas, y tendrán experiencia “hands on” en su despliegue, configuración e integración con software desarrollado durante el curso. En particular, obtendrán experiencia en:
 
@@ -27,7 +27,7 @@ Las personas participantes podrán construir un sistema que convierta informaci�
 3. Técnicas de ligado de entidades usando modelos de lenguaje  
 4. Generación de gráficas a partir de datos almacenados en tablas y en árboles json.
 
-## **Temas a cubrir:**
+## **¿Qué temas se cubrirán?**
 
 Para cada uno de los siguientes temas las personas participantes generarán un prototipo, desplegarán un sistema basado en software libre e integrarán ambos. Los prototipos desarrollados a lo largo del semestre se integrarán en la semana final y se presentarán.
 
