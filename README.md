@@ -4,4 +4,4 @@ Repositorio del sitio
 
 ## Organización
 
-teaching/texto2KG
+teaching/text2KG : markdown con información del sitio
