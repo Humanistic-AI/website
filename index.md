@@ -1,5 +1,5 @@
 
-Research group at the [Centre for Interdisciplinary Research in Sciences and Humanities](https://ceiich.unam.mx/) at UNAM, México.
+Research group at the [Centre for Interdisciplinary Research in Sciences and Humanities](https://ceiich.unam.mx/) at UNAM, Mexico.
 
 ## People:
 
@@ -10,9 +10,9 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 * Uriel Medina
 
 ## Research Directions:
-* Knwoledge Graphs for organizing information contained in documents
+* Knowledge Graphs for organizing information contained in documents
   *  Pertaining enforced disapearances: [Project Angelus](https://seguridad.conahcyt.mx/guerra-sucia/)
-* Enhancing epistimic diversity in research 
+* Enhancing epistemic diversity in research 
 * Technologies for data organization in the search of missing people.
 
 ## Teaching:

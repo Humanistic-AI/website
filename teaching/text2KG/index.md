@@ -43,7 +43,7 @@ Adicionalmente, para las personas inscritas el PCIC de la UNAM, habrá sesiones 
 
 ## **Programación Detallada:**
 
-**I. Introduccion**
+**I. Introducción**
 
 1. Información estructurada y no estructurada  
 2. Paradigmas de consulta de información
