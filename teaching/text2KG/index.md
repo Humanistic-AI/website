@@ -101,3 +101,7 @@ Se prevén dos tipos de personas participantes. Para aquellas que prefieran cont
 * Manejo de sistemas operativos unix (Linux o MacOS)
 
 Para aquellas que quieran contribuir **desde el punto de vista de un caso de uso**, se recomienda tener en mente un problema basado en un conjunto de documentos digitales, tales como documentos de archivo, hemerográficos, testimonios, etc.
+
+## **Recursos**
+
+Dentro de herramientas que estaremos usando comunmente está el manejo de contenedores (Docker) misma que puedes conocer en el [siguiente tutorial](https://docker-curriculum.com/#webapps-with-docker)
