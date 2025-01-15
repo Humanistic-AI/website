@@ -104,4 +104,6 @@ Para aquellas que quieran contribuir **desde el punto de vista de un caso de uso
 
 ## **Recursos**
 
-Dentro de herramientas que estaremos usando comunmente está el manejo de contenedores (Docker) misma que puedes conocer en el [siguiente tutorial](https://docker-curriculum.com/#webapps-with-docker)
+Aquí dejaremos una serie de recursos para el curso
+- Docker:
+  - Tutorial [Docker-curriculum](https://docker-curriculum.com/)
