@@ -3,7 +3,7 @@
 A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades de la UNAM.
 
 **Contacto**: 	[victor.mireles@ceiich.unam.mx](mailto:victor.mireles@ceiich.unam.mx)  
-**Horario:** 	8:00 \- 9:00 hrs.  27 de Enero al 16 de Mayo 2025\.  
+**Horario:** 	8:00 \- 9:00 hrs. 
 **Modalidad:** 	Híbrida (1 clase presencial a la semana, Facultad de Ciencias, UNAM)
 
 
@@ -86,13 +86,11 @@ Las personas participantes elaborarán, individualmente o en equipos pequeños, 
 
 ## **Para inscribirse:**
 
-* Inscríbite a [este google classroom](https://classroom.google.com/c/NzQ0NjA0NTg3NTQ1?cjc=puii6m6)
-* Si eres de la Facultad de Ciencias de la UNAM, inscríbete al grupo **7145**
-* Si eres del PCIC de la UNAM, inscríbete a la materia `TÉCNICAS DE PLN Y BASES DE DATOS DE GRÁFICAS` 
+* Inscríbete al **Grupo:  7184**
 
 ## **Requisitos:**
 
-Se prevén dos tipos de personas participantes. Para aquellas que prefieran contribuir a la construcción del sistema **desde el punto de vista técnico**, se recomienda familiaridad con:
+Se recomienda familiaridad con:
 
 * Programación en lenguaje Python  
 * Uso de sistema de control de versiones Git  
@@ -100,7 +98,6 @@ Se prevén dos tipos de personas participantes. Para aquellas que prefieran cont
 * Cálculo de predicados  
 * Manejo de sistemas operativos unix (Linux o MacOS)
 
-Para aquellas que quieran contribuir **desde el punto de vista de un caso de uso**, se recomienda tener en mente un problema basado en un conjunto de documentos digitales, tales como documentos de archivo, hemerográficos, testimonios, etc.
 
 ## **Recursos**
 
