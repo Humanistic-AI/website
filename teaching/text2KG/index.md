@@ -12,7 +12,7 @@ A cargo de: **Dr. Víctor Mireles Chávez**, del Centro de Investigaciones Inter
 
 Es interesante ligar información estructurada con aquella contenida en documentos de texto. Por ejemplo, al leer un artículo periodístico es bueno tener a un click de distancia información sobre cada persona ahí mencionada, incluyendo sus ligas con otras personas, noticias y organizaciones. En este seminario se explorarán las técnicas de procesamiento de lenguaje natural (NLP),basadas en Redes Neuronales Artificiales, extracción de información, y representación del conocimiento necesarias para el diseño y construcción de un sistema que permita estas funcionalidades. Se familiarizará a las personas participantes con los conceptos necesarios en cada etapa y se implementarán prototipos que, al final del semestre, se combinarán para crear un sistema funcional. Los conjuntos de datos y los casos de uso vendrán de aplicaciones reales de interés social y cultural. 
 
-En este seminario de carácter primordialmente práctico, los participantes elaborarán un sistema a partir de un conjunto de documentos, como el que se ejemplifica abajo y que se puede navegar en [https://visualizador.angeluscnb.mx/](https://visualizador.angeluscnb.mx/)
+En este seminario de carácter primordialmente práctico, los participantes elaborarán un sistema a partir de un conjunto de documentos, como el que se ejemplifica abajo y que se puede navegar en [https://visualizador.humanistic-ai.org/](https://visualizador.humanistic-ai.org/)
 
 | ![Grafo de Conocimiento sobre Desapariciones Forzadas Guerra Sucia](./diagram_sample_angelus.png)|
 | :---- |
