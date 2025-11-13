@@ -4,10 +4,12 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 ## People:
 
 * Víctor Mireles (victor.mireles AT ceiich DOT unam DOT mx) [publications](https://scholar.google.com/citations?user=Hv_iIpYAAAAJ&hl=en)
-* Oscar Ángeles
 * Michelle Barajas
 * Ricardo Berbabé
 * Uriel Medina
+* Rene Gaspar
+* Marisol Ortiz
+* Leslie Mateos
 
 ## Research Directions:
 * Knowledge Graphs for organizing information contained in documents
@@ -18,4 +20,5 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 ## Teaching:
 * [Text2KG](./teaching/text2KG/)
 * Information Theory
+
 
