@@ -22,8 +22,8 @@ We will start with a 15 minute space to check that everyone is setup and properl
 curl -LsSf https://astral.sh/uv/install.sh | sh  
 export PATH="$HOME/.local/bin:$PATH"  
 uv version
-
 ```
+
 2. Install GraphViz and PyGraphviz
 
 MacOS: `	brew install graphviz   `
