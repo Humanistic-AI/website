@@ -13,9 +13,33 @@ We will start with a 15 minute space to check that everyone is setup and properl
 **Requirements** 
  * If possible, bring your own computer with [git](https://git-scm.com/install/) and [docker](https://docs.docker.com/engine/install/) installed.
  * Optionally, bring a dataset that you are interested in, or working on, that you'd like to see represented as a graph.
+ 
+
+**To make things faster during the workshop** 
+
+1. Install UV
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh  
+export PATH="$HOME/.local/bin:$PATH"  
+uv version
+
+```
+2. Install GraphViz and PyGraphviz
+
+MacOS: `	brew install graphviz   `
+Debian/Ubuntu:  `sudo apt update && sudo apt install -y graphviz graphviz-dev  `
+
+3. Pull arango and neo4j images
+
+```
+docker pull arangodb:3.11.13
+docker pull neo4j:5.21.0
+
+```
 
 
-
+More info here:
+https://gist.github.com/alexander-belikov/2e74bae0b6a2f4e3ef5edfb67d72371f
 
 
 
