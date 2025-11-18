@@ -26,7 +26,8 @@ uv version
 
 2. Install GraphViz and PyGraphviz
 
-MacOS: `	brew install graphviz   `
+MacOS: `brew install graphviz`
+
 Debian/Ubuntu:  `sudo apt update && sudo apt install -y graphviz graphviz-dev  `
 
 3. Pull arango and neo4j images
