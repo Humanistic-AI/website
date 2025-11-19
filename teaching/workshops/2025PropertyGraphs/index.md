@@ -39,8 +39,10 @@ docker pull neo4j:5.21.0
 ```
 
 
-More info here:
-https://gist.github.com/alexander-belikov/2e74bae0b6a2f4e3ef5edfb67d72371f
+More info [here](https://gist.github.com/alexander-belikov/2e74bae0b6a2f4e3ef5edfb67d72371f)
+
+
+Presentation is [here](https://alexander-belikov.github.io/media/talks/2025-graflo-workshop-unam.pdf)
 
 
 
