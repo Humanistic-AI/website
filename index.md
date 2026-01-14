@@ -18,6 +18,7 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 * Technologies for data organization in the search of missing people.
 
 ## Teaching:
+* [Mutlicomponent Systems Development en Deployment](./teaching/DDSSM/)
 * [Text2KG](./teaching/text2KG/)
 * Information Theory
 
