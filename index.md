@@ -12,8 +12,7 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 * Leslie Mateos
 
 ## Research Directions:
-* Knowledge Graphs for organizing information contained in documents
-  *  Pertaining enforced disapearances: [Project Angelus](https://seguridad.conahcyt.mx/guerra-sucia/)
+* [Knowledge Graphs for organizing information contained in documents](./research/KGs/)
 * Enhancing epistemic diversity in research 
 * Technologies for data organization in the search of missing people.
 
