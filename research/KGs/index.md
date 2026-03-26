@@ -18,9 +18,16 @@ Formal representations of knowledge, among them Knowledge Graphs (KGs), allow fo
 
 
 ## Data
-* [Angelus Ontology](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/angelus_ontology.owl). An OWL format ontology that guides the different system components.
+* [Angelus Ontology](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/angelus_ontology.owl). An OWL format ontology that guides the different system components, a formalized representation of the domain of State-sponsored enforced disappearance
+* [Public KG](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/tripletas_angelus_publico.n3) RDF triples of the publicly available annotations generated during projecto Angelus. A description of this public dataset is available [here](https://zenodo.org/records/7542189).
+* [Public set of Documents](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/publicables_angelus2023.zip) (1.3 GB) annotated during project Angelus. A listing of the documents is available [here](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/documentos_angelus_publico.json) as JSON.
+
 
 ## Publications
+
 * Sánchez, M. E. M., & López, T. D. V. (2026). Visualizar la desaparición forzada: grafos de conocimiento para la búsqueda y la verdad. Revista Perfiles Latinoamericanos, 34(67), 63-88. [link](https://perfilesla.flacso.edu.mx/index.php/perfilesla/article/download/1954/1689)
-* Mireles V., Sánches Nateras, G., (2024) “Angelus: el sistema que arma rompecabezas para encontrar a personas víctimas de desaparición” en Boletín Conahcyt 5 pp. 13-22 [link](../../pubs/2025_boletin.pdf)
+* Mireles V., Sánches Nateras, G., (2024) “Angelus: el sistema que arma rompecabezas para encontrar a personas víctimas de desaparición” en Boletín Conahcyt 5 pp. 13-22. [link](../../pubs/2025_boletin.pdf)
+* Project Angelus (2023). User Manual (public version). [link](https://zenodo.org/records/13743411)
+* Project Angelus (2022). Annotation Report. [link](https://zenodo.org/records/7552704)
+* Project Angelus (2022). Digitalization Report. [link](https://zenodo.org/records/7548893)
 * Mireles, V., Sánchez, M. E. M., Winocur, J. Y., & Nateras, G. S. (2021). Buscando a los desaparecidos de la “guerra sucia”: ontologías computacionales y la búsqueda de verdad. Iberoforum. Revista de Ciencias Sociales, 1(1), 1-40. [link](https://iberoforum.ibero.mx/index.php/iberoforum/article/download/149/442)
