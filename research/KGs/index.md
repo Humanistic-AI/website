@@ -16,6 +16,10 @@ Formal representations of knowledge, among them Knowledge Graphs (KGs), allow fo
 * [Annotator](https://codigo.conahcyt.mx/angelus/angelus_anotador) a web app for annotating PDF documents in accordance with an ontology and creating from them reified RDF graphs.
 * [Document API](https://codigo.conahcyt.mx/angelus/angelus_api_documentos) an API wrapping document repositories (so far [Dataverse](https://dataverse.org/)) so that it serves PDF documents into the Annotator component.
 
+
+## Data
+* [Angelus Ontology](https://cdn.conahcyt.mx/enis/seguridad-humana/guerra-sucia/archivo/angelus_ontology.owl). An OWL format ontology that guides the different system components.
+
 ## Publications
 * Sánchez, M. E. M., & López, T. D. V. (2026). Visualizar la desaparición forzada: grafos de conocimiento para la búsqueda y la verdad. Revista Perfiles Latinoamericanos, 34(67), 63-88. [link](https://perfilesla.flacso.edu.mx/index.php/perfilesla/article/download/1954/1689)
 * Mireles V., Sánches Nateras, G., (2024) “Angelus: el sistema que arma rompecabezas para encontrar a personas víctimas de desaparición” en Boletín Conahcyt 5 pp. 13-22 [link](../../pubs/2025_boletin.pdf)
