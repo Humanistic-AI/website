@@ -4,12 +4,11 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 ## People:
 
 * Víctor Mireles (victor.mireles AT ceiich DOT unam DOT mx) [publications](https://scholar.google.com/citations?user=Hv_iIpYAAAAJ&hl=en)
-* Michelle Barajas
 * Ricardo Berbabé
 * Uriel Medina
 * Rene Gaspar
 * Marisol Ortiz
-* Leslie Mateos
+* Michelle Barajas
 
 ## Research Directions:
 * [Knowledge Graphs for organizing information contained in documents](./research/KGs/)
