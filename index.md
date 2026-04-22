@@ -9,6 +9,7 @@ Research group at the [Centre for Interdisciplinary Research in Sciences and Hum
 * Rene Gaspar
 * Marisol Ortiz
 * Michelle Barajas
+* Sergio Hernández López
 
 ## Research Directions:
 * [Knowledge Graphs for organizing information contained in documents](./research/KGs/)
