@@ -86,7 +86,7 @@ Las personas participantes elaborarán, individualmente o en equipos pequeños, 
 
 ## **Para inscribirse:**
 
-* Inscríbete al **Grupo:  7184**
+* Inscríbete al **Grupo:  7162**
 
 ## **Requisitos:**
 
